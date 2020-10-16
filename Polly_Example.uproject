@@ -7,12 +7,7 @@
 		{
 			"Name": "AwsPolly",
 			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/dd9b364c404b4ca49c851bbcf63e75ec"
-		},
-		{
-			"Name": "UE4EditorCustomize",
-			"Enabled": false,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/0d22d9af59624886a6fccd9573fefa90"
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/276892a3518b4d89b4e269fe74475abd"
 		}
 	]
 }
